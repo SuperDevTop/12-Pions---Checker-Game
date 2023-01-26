@@ -1,0 +1,8 @@
+The game I want is like the game of checkers but this time for this game there are 25 cages and each player has 12 pawns.
+Rule number 1: the movement is only horizontally and vertically but there is no moving backward just to the left, right or forward
+Rule number 2: the player has the right to eat the other pawn only when there is an empty cage after the pawn
+Rule number 3: the player can play more times than when he eats a pawn and there is another pawn that he can eat. But it’s only the pawn he played that can do that
+Rule number 4: if the player who has to play a pawn who can eat a pawn and he decides not to eat it and to play some other pawn must be deleted as if we had eaten it
+Rule number 5: if a pawn of a player arrived at the first line of the opponent, pawn becomes a king pawn, a king pawn means that this pawn can move vertically and horizontally even backwards by jumping cages and eating pawns by jumping cages, but he cannot jump these own pawns
+Rule number 6: if a player eats all the opponent's pawns, this player wins the game.
+Rule number 7: if for each player he has 1 pawn left, we have a draw no one has won
